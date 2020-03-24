@@ -22,4 +22,4 @@ conf.xml
 .vscode/
 
 # DB
-src/main/resources/application.properties
+
